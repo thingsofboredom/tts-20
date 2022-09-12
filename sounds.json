@@ -202,5 +202,13 @@
     {
         "name": "langweilig",
         "url": "https://cdn.discordapp.com/attachments/1005133048448294973/1009561885512843274/langweilig.mp3"
+    },
+    {
+        "name": "busysignal",
+        "url": "https://cdn.discordapp.com/attachments/1005133048448294973/1018868685760364554/busysignal.mp3"
+    },
+    {
+        "name": "hangup",
+        "url": "https://cdn.discordapp.com/attachments/1005133048448294973/1018868693503070269/hangup.mp3"
     }
 ]
