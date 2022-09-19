@@ -84,6 +84,10 @@
         "url": "https://cdn.discordapp.com/attachments/1005133048448294973/1005133299477381242/siuu.mp3"
     },
     {
+        "name": "siuu2",
+        "url": "https://cdn.discordapp.com/attachments/1012080393417138287/1021377495850831902/siuu.mp3"
+    },
+    {
         "name": "ohnono",
         "url": "https://cdn.discordapp.com/attachments/1005133048448294973/1005133264517857450/ohnono.mp3"
     },
@@ -214,5 +218,9 @@
     {
         "name": "hangup",
         "url": "https://cdn.discordapp.com/attachments/1005133048448294973/1018868693503070269/hangup.mp3"
+    },
+    {
+        "name": "heheh",
+        "url": "https://cdn.discordapp.com/attachments/1012080393417138287/1021377495565602856/heheh.mp3"
     }
 ]
